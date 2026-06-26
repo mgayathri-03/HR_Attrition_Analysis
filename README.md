@@ -1,5 +1,7 @@
-# HR_Attrition_Analyis
+# HR Attrition Analysis
+
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition and uncover workforce insights.
+
 
 # Project Overview
 This project analyzes employee attrition using the IBM HR Analytics dataset. The data was cleaned using Excel, transformed with SQL, analyzed using Python, and visualized in Microsoft Power BI through an interactive dashboard.
@@ -96,6 +98,32 @@ Male employees contribute to a higher share of total attrition.
 
 Interactive slicers allow filtering by Department, Gender, and Job Role.
 
+# Project structure
+HR-Attrition-Analytics/
+
+│
+├── Data/
+│   └── HR_Attrition.xlsx
+
+│
+├── SQL/
+│   └── Queries.sql
+
+│
+├── Python/
+│   └── Analysis.ipynb
+
+│
+├── Power BI/
+│   └── HR_Analytics.pbix
+
+│
+├── Images/
+│   ├── Dashboard.png
+│   └── Overview.png
+
+│
+└── README.md
 
 # Skills Demonstrated
 Data Cleaning
@@ -119,8 +147,7 @@ Business Intelligence
 # Author 
 Name: M.Gayathri 
 
-Phone: 9390242891
+Course: Computer Science And Engineering
 
 Email: gayathrimaddila03@gmail.com
 
-GitHub: 

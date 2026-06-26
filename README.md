@@ -3,12 +3,12 @@
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition and uncover workforce insights.
 
 
-# Project Overview
+# 📌Project Overview
 This project analyzes employee attrition using the IBM HR Analytics dataset. The data was cleaned using Excel, transformed with SQL, analyzed using Python, and visualized in Microsoft Power BI through an interactive dashboard.
 
 
 
-# Dashboard Preview
+# 📂Dashboard Preview
 <img width="1451" height="803" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/a0c83970-2fee-41ae-ac83-f8c824a58e90" />
 
 
@@ -35,7 +35,7 @@ This project analyzes employee attrition using the IBM HR Analytics dataset. The
  Job Role
 
  
-# Dataset
+# 📂Dataset
 Dataset: IBM HR Analytics Employee Attrition Dataset
 
 Total Employees: 1470
@@ -87,7 +87,7 @@ Pandas
 Jupyter Notebook
 
 
-# Dashboard Insights
+# 📈Dashboard Insights
 Research & Development department has the highest attrition.
 
 Employees with lower salaries are more likely to leave.

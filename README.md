@@ -111,7 +111,7 @@ HR-Attrition-Analytics/
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-📧 Email: gayathrrimaddila03@gmail.com
+📧 Email: gayathrimaddila03@gmail.com
 
 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering  
 
